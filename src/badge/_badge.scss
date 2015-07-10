@@ -1,0 +1,8 @@
+@import "../variables";
+
+.mdl-badge {
+    &[data-badge]:after {
+        right: auto;
+        left: -($badge-size + $badge-padding);
+    }
+}

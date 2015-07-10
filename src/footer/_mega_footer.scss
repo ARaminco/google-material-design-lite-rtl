@@ -1,0 +1,51 @@
+@import "../variables";
+@import "../mixins";
+
+@media screen and (min-width: 760px) {
+  .mdl-mega-footer--drop-down-section:nth-child(1),
+  .mdl-mega-footer--drop-down-section:nth-child(2) {
+    float: right;
+  }
+
+  .mdl-mega-footer--drop-down-section:nth-child(3) {
+    float: left;
+
+    &:after {
+      clear: left;
+    }
+  }
+
+  .mdl-mega-footer--drop-down-section:nth-child(4) {
+    clear: left;
+    float: right;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .mdl-mega-footer--drop-down-section,
+  .mdl-mega-footer--drop-down-section:nth-child(3),
+  .mdl-mega-footer--drop-down-section:nth-child(4) {
+    float: right;
+  }
+}
+
+.mdl-mega-footer--heading {
+  padding-right: 0;
+  padding-left: $footer-heading-line-height + $footer-min-padding;
+}
+
+.mdl-mega-footer--bottom-section .mdl-mega-footer--link-list li {
+  float: right;
+
+  margin-right: 0;
+  margin-left: $footer-min-padding;
+}
+
+@media screen and (min-width: 760px) {
+  .mdl-logo {
+    float: right;
+
+    margin-right: 0;
+    margin-left: $footer-min-padding;
+  }
+}

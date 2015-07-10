@@ -1,0 +1,7 @@
+@import "../variables";
+@import "../mixins";
+
+html, body {
+  font-family: $performance_font;
+  font-size: 13px;
+}

@@ -1,0 +1,29 @@
+@import "../variables";
+@import "../mixins";
+
+.mdl-checkbox {
+  &.is-upgraded {
+    padding-left: 0;
+    padding-right: $checkbox-button-size + $checkbox-padding;
+  }
+}
+
+.mdl-checkbox__box-outline {
+  left: auto;
+  right: 0;
+}
+
+.mdl-checkbox__focus-helper {
+  left: auto;
+  right: 0;
+}
+
+.mdl-checkbox__tick-outline {
+  left: auto;
+  right: 0;
+}
+
+.mdl-checkbox__ripple-container {
+  left: auto;
+  right: -(($checkbox-ripple-size - $checkbox-button-size) / 2);
+}
