@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # google-material-design-lite-rtl
 
 > This project will be updated until MDL adds RTL support to thier next major release.
