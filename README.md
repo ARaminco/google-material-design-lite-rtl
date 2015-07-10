@@ -41,4 +41,4 @@ To get started, download latest release and include these files ( found under `m
 
 ### Templates
 The templates/ subdirectory contains a few exemplary usages of MDL RTL.
-* [Text Only](http://www.ahmad.ly/github/mdl/text-only)
+* [Text Only](http://ahmad.ly/github/mdl/templates/text-only/)
