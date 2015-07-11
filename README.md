@@ -13,6 +13,10 @@ To get started, download latest release and include these files ( under `mdl` fo
 <link rel="stylesheet" href="material-rtl.css">
 ```
 
+### Templates
+The templates/ subdirectory contains a few exemplary usages of MDL RTL.
+* [Text Only](http://ahmad.ly/github/mdl/templates/text-only/)
+
 ## What's done ( progress )
 | Component     | progress                                       |
 |-----------------|------------------------------------------------|
@@ -38,7 +42,3 @@ To get started, download latest release and include these files ( under `mdl` fo
 | textfield | 0% |
 | tooltip | 0% |
 | typography |10%|
-
-### Templates
-The templates/ subdirectory contains a few exemplary usages of MDL RTL.
-* [Text Only](http://ahmad.ly/github/mdl/templates/text-only/)
