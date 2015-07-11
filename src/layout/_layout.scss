@@ -3,6 +3,7 @@
 
 .mdl-layout__drawer {
   transform: translateX($layout-drawer-width + 10px);
+  -webkit-transform: translateX($layout-drawer-width + 10px);
   left: auto;
   right: 0;
 
