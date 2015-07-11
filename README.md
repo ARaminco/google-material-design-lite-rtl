@@ -13,7 +13,7 @@ To get started, download latest release and include these files ( under `mdl` fo
 <link rel="stylesheet" href="material-rtl.css">
 ```
 
-### Templates
+## Templates
 The templates/ subdirectory contains a few exemplary usages of MDL RTL.
 * [Text Only](http://ahmad.ly/github/mdl/templates/text-only/)
 
