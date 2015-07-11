@@ -1,9 +1,9 @@
 # google-material-design-lite-rtl
 
-> This project will be updated until MDL adds RTL support to thier next major release.
+> This project will be updated until MDL adds RTL support to their next major release.
 
 ## Getting Started
-To get started, download latest release and include these files ( found under `mdl` folder ) inside your `<html>`.
+To get started, download latest release and include these files ( under `mdl` folder ) inside your `<html>`.
 
 ```html
 <!-- Original MDL -->
